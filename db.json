@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
+      "message": "Changed network card on server #030",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
+      "tech": "Lara Croft",
+      "date": "2019-09-09T23:31:09.906Z",
       "id": 1
     },
     {
       "id": 2,
-      "message": "Fixed hard drive on workstation 002",
+      "message": "Fixed database",
+      "attention": false,
+      "tech": "Lara Croft",
+      "date": "2019-09-10T00:00:53.551Z"
+    },
+    {
+      "message": "Just have a very nice day!",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
-    },
-    {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "date": "2019-09-09T23:32:10.585Z",
+      "id": 4
     }
   ],
   "techs": [
